@@ -1,9 +1,5 @@
 {
-  "rewrites": [
-    { "source": "/", "destination": "/epk-web.html" }
-  ],
-  "github": {
-    "silent": true
-  }
+  "cleanUrls": true,
+  "trailingSlash": false
 }
 
