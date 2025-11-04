@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/epk-web.html" }
+  ],
+  "github": {
+    "silent": true
+  }
+}
+
